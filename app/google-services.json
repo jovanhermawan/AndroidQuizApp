@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "118516591683",
+    "project_id": "clicker-dd317",
+    "storage_bucket": "clicker-dd317.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118516591683:android:058601a7771c7a17da38f6",
+        "android_client_info": {
+          "package_name": "com.example.clicker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118516591683-1vuafppdsak4fh5rpomqji2663f2js6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh68wyK4YU45BbSvep_NlaGXak5tOUFfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118516591683-1vuafppdsak4fh5rpomqji2663f2js6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
